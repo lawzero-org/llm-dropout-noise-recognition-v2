@@ -1,0 +1,17 @@
+.coverage
+coverage.xml
+.idea
+CLAUDE.md
+**/__pycache__
+*.png
+**/outputs
+wandb
+**/.ipynb_checkpoints
+notebooks/artifacts/
+data/cache/*
+*.zip
+**/.DS_Store
+src/spe.egg-info
+.venv/
+.ruff_cache/
+plots/
